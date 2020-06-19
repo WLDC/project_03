@@ -1,7 +1,8 @@
 html,
 body {
-magin : 0;
+margin : 0;
 padding : 0;
-
+background-color: aqua;
 }
-//这是login.css在远程修改的
+/* 这是login.css在远程修改的 */
+/* 在本地提交到远程 增加了背景色 */
